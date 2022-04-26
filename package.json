@@ -4,6 +4,10 @@
   "description": "A JavaScript wrapper for the currencyapi.com API",
   "main": "currencyapi.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everapihq/currencyapi-js.git"
+  },
   "keywords": [
     "currency",
     "api",
