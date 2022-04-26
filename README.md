@@ -6,22 +6,22 @@ This package aims to make the usage of [currencyapi.com]'s API as easy as possib
 
 ### npm
 ```shell
-npm install --save currencyapi-js
+npm install --save @everapi/currencyapi-js
 ```
 ### yarn
 ```shell
-yarn add currencyapi-js
+yarn add @everapi/currencyapi-js
 ```
 
 ## Import
 
 ECMAScript:
 ```js
-import CurrencyAPI from 'currencyapi-js';
+import CurrencyAPI from '@everapi/currencyapi-js';
 ```
 CommonJS:
 ```js
-const CurrencyAPI = require('currencyapi-js');
+const CurrencyAPI = require('@everapi/currencyapi-js');
 ```
 
 or use it directly in a Browser:
