@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://app.currencyapi.com/img/logo/currencyapi.png" width="300"/>
+</p>
+
 # currencyapi-js: CurrencyAPI JavaScript wrapper
 
 This package aims to make the usage of [currencyapi.com]'s API as easy as possible in your JavaScript/node project.
@@ -52,4 +56,4 @@ currencyApi.latest({
 Find out more about our endpoints, parameters and data structure in the [docs]
 
 [docs]: https://currencyapi.com/docs
-[currencyapi.com]: https://currencyapi.com/docs
+[currencyapi.com]: https://currencyapi.com
