@@ -1,12 +1,12 @@
 {
-  "name": "currencyapi-js",
+  "name": "@everapi/currencyapi-js",
   "version": "1.0.0",
   "description": "A JavaScript wrapper for the currencyapi.com API",
   "main": "currencyapi.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/everapihq/currencyapi-js.git"
+    "url": "git+https://github.com/everapihq/currencyapi-js.git"
   },
   "keywords": [
     "currency",
@@ -17,5 +17,10 @@
     "currency data",
     "exchange rates"
   ],
-  "author": "Lukas Struber"
+  "author": "Lukas Struber",
+  "bugs": {
+    "url": "https://github.com/everapihq/currencyapi-js/issues"
+  },
+  "homepage": "https://github.com/everapihq/currencyapi-js#readme",
+  "license": "ISC"
 }
