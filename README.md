@@ -31,7 +31,7 @@ const CurrencyAPI = require('@everapi/currencyapi-js');
 or use it directly in a Browser:
 
 ```html
-<script src="path/to/currencyapi-js/currencyapi.js"></script>
+<script src="path/to/currencyapi-js/index.js"></script>
 ```
 
 ## Usage

@@ -1,8 +1,8 @@
 {
   "name": "@everapi/currencyapi-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A JavaScript wrapper for the currencyapi.com API",
-  "main": "currencyapi.js",
+  "main": "index.js",
   "type": "module",
   "repository": {
     "type": "git",
