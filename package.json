@@ -1,0 +1,17 @@
+{
+  "name": "currencyapi-js",
+  "version": "1.0.0",
+  "description": "A JavaScript wrapper for the currencyapi.com API",
+  "main": "currencyapi.js",
+  "type": "module",
+  "keywords": [
+    "currency",
+    "api",
+    "currencyapi",
+    "currency conversion",
+    "currency converter",
+    "currency data",
+    "exchange rates"
+  ],
+  "author": "Lukas Struber"
+}
