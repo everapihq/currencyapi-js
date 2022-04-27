@@ -42,10 +42,4 @@ class CurrencyAPI {
     }
 }
 
-// Export for both the CommonJS and browser-like environment
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = CurrencyAPI;
-} else {
-    window.CurrencyAPI = CurrencyAPI;
-}
 export default CurrencyAPI;

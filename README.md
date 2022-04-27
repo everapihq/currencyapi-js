@@ -2,9 +2,9 @@
 <img src="https://app.currencyapi.com/img/logo/currencyapi.png" width="300"/>
 </p>
 
-# currencyapi-js: CurrencyAPI JavaScript wrapper
+# currencyapi-js: JS Currency Converter
 
-This package aims to make the usage of [currencyapi.com]'s API as easy as possible in your JavaScript/node project.
+This package is a JavaScript wrapper for [currencyapi.com] that aims to make the usage of the API as easy as possible in your project.
 
 ## Installation
 
@@ -19,13 +19,8 @@ yarn add @everapi/currencyapi-js
 
 ## Import
 
-ECMAScript:
 ```js
 import CurrencyAPI from '@everapi/currencyapi-js';
-```
-CommonJS:
-```js
-const CurrencyAPI = require('@everapi/currencyapi-js');
 ```
 
 or use it directly in a Browser:
@@ -53,7 +48,16 @@ currencyApi.latest({
     });
 ```
 
-Find out more about our endpoints, parameters and data structure in the [docs]
+Endpoints accessible with a free account:
+- `status`
+- `latest`
+- `historical`
+
+These advanced endpoints currently require a paid subscription:
+- `convert`
+- `range`
+
+Find out more about our endpoints, parameters and response data structure in the [docs]
 
 [docs]: https://currencyapi.com/docs
 [currencyapi.com]: https://currencyapi.com
