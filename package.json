@@ -1,6 +1,6 @@
 {
   "name": "@everapi/currencyapi-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A JavaScript wrapper for the currencyapi.com API",
   "main": "index.js",
   "type": "module",
@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/everapihq/currencyapi-js/issues"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "homepage": "https://github.com/everapihq/currencyapi-js#readme",
-  "license": "ISC"
+  "license": "MIT"
 }

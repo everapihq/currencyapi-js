@@ -59,5 +59,9 @@ These advanced endpoints currently require a paid subscription:
 
 Find out more about our endpoints, parameters and response data structure in the [docs]
 
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
 [docs]: https://currencyapi.com/docs
 [currencyapi.com]: https://currencyapi.com
