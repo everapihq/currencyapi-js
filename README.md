@@ -50,6 +50,7 @@ currencyApi.latest({
 
 Endpoints accessible with a free account:
 - `status`
+- `currencies`
 - `latest`
 - `historical`
 

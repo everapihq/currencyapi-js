@@ -25,6 +25,10 @@ class CurrencyAPI {
         return this.call('status');
     }
 
+    currencies (params) {
+        return this.call('currencies', params);
+    }
+
     latest (params) {
         return this.call('latest', params);
     }
